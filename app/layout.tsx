@@ -10,19 +10,19 @@ export const metadata: Metadata = {
   title: "OrthoSeal | Advanced Synovial Joint Implants",
   description:
     "OrthoSeal is a medical implant R&D company specializing in synovial joint implants with advanced coating technologies for knee and hip replacements.",
-  generator: "v0.app",
+ 
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/logoSeal.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/logoSeal.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/logoSeal.png",
         type: "image/svg+xml",
       },
     ],
