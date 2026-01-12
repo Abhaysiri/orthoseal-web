@@ -2,14 +2,14 @@ export default function TeamPage() {
   const teamMembers = [
     {
       name: "Dr. Sudhakar C Jambagi",
-      role: "Founder & Director",
+      role: "Co-Founder & Director",
       designation: "Associate Professor, NITK Surathkal",
       image: "/sudhakar-sir-2.jpeg",
     },
     {
       name: "Dr. Avinash Parthasarthy",
       role: "Clinical Advisor",
-      designation: "Arthroplasty Head, Orthopedic Surgeon",
+      designation: "Arthroplasty Head, Orthopedic Surgeon,SGITO, Bengaluru",
       image: "/avinash-parthasarthy-sir.png",
     },
     {
