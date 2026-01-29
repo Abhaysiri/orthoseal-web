@@ -20,7 +20,7 @@ export default function HomePage() {
                 Novel orthopedic implants
               </h1>
               <p className="mt-4 md:mt-6 text-lg md:text-xl text-white/90">
-                Precision Engineering for Better Mobility.
+                “Tech that Seals! Science that Heals”
               </p>
               {/* <button className="mt-6 md:mt-8 px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary/90 transition-colors">
                 Learn More
